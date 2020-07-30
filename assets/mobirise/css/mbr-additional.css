@@ -1111,13 +1111,16 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s47dxN9Xt6 {
-  background-color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/1920x550-2-1920x550.jpeg");
 }
 .cid-s47dxN9Xt6 H1 {
-  color: #070707;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-s47dxN9Xt6 H3 {
-  color: #070707;
+  color: #ffffff;
 }
 .cid-s6a2kBOrXS {
   padding-top: 60px;
